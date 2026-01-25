@@ -21,7 +21,9 @@ The goal of this project is to build a sentiment classifier using:
 - **Dataset:** Twitter Tweets Sentiment Dataset  
 - **Size:** ~27,000 tweets  
 - **Columns:** `textID`, `text`, `selected_text`, `sentiment`  
-- **Sentiment Labels:** Positive, Negative, Neutral  
+- **Sentiment Labels:** Positive, Negative, Neutral
+
+  @Dataset Link: https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset
 
 ---
 
